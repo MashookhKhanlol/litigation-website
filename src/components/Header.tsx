@@ -25,7 +25,7 @@ const Header = () => {
           
           <div className="flex items-center space-x-2">
             <Avatar className="h-8 w-8">
-              <AvatarImage src="/placeholder.svg" alt="John Doe" />
+              <AvatarImage src="/my-uploads/3a1f03aa-aeba-4cc0-a495-e4438b22561c.png" alt="User Profile" />
               <AvatarFallback>JD</AvatarFallback>
             </Avatar>
             <span className="text-sm font-medium text-gray-700">John Doe</span>
