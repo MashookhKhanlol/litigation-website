@@ -185,4 +185,4 @@ The application is continuously updated with new features and improvements. Chec
 
 ---
 
-Built with ❤️ using modern web technologies
+
